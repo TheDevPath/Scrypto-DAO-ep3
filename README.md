@@ -31,3 +31,7 @@ _To participate in this Scrypto competition, please do the following:_
 7. Come say “Hi!” in the #scrypto channel of our [Discord](http://discord.gg/radixdlt) server. The community will give you a warm welcome and help you with whatever question you might have.
 
 Check out all the challenge details [here :eyes:](https://www.radixdlt.com/post/scrypto-dao-challenge-is-live)
+
+Addtional reading
+
+[The User Badge Pattern](https://docs.radixdlt.com/main/scrypto/design-patterns/user-badge-pattern.html)
