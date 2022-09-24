@@ -6,12 +6,17 @@ What is a DAO?
 
 What are the fundamental components of a DAO?
 
-- Roles
-- Voting
-- Treasury
-- Governance
+- **Members** - You need members to have an organization so let's figure out what we can automate to make things awesome for those members.
+- **Roles** - In order to operate you may need to have varying user roles to facilitate responsibilities, benefits, access control and authorization.
+- **Voting** - Voting will be an important mechanism as this is an important way for your dao to make decisions. Although it might seem simple at first glance there are a lot of variables to think about here. Voting is likely an area where we could see a ton of innovation. This of course could couple tightly with roles or be designed in a manner which has no role requirement. You could allow members to delegate their votes to representatives or enforce strict pure 1 user 1 vote systems.
+- **Treasury** - How will you manage finances, distribute earnings, pay expenses etc.
+- **Governance** - How will your DAO operate? 100% vote on every action or elected representatives, or some combination of both.
 
 With these four components in place you can begin to compose a world of possibilities that has only just begun to be explored.
+
+In the following sections we will begin to build out the core functionality needed to facilitate a flexible DAO structure which can adapt to the particular project requirements.
+
+As an example use case to help get us thinking about the possibilities as we build out the primary tools to get started I will use The Dev Path Community Driven Development project.
 
 ### How to participate in the Challenge
 
